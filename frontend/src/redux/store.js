@@ -20,4 +20,4 @@ const store = configureStore({
 
 export default store;
 
-export const server = 'https://lms-deploy-wine.vercel.app/api/v1';
+export const server = 'https://lms-deploy.onrender.com/api/v1';
