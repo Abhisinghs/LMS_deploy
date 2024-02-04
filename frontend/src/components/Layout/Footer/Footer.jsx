@@ -45,7 +45,7 @@ const Footer = () => {
             href="https://linkedin.com/in/abhishek-singh-773b3a229/"
             target={'blank'}
           >
-            <TiSocialLinkedin />
+            <TiSocialLinkedinCircular />
           </a>
         </HStack>
       </Stack>
