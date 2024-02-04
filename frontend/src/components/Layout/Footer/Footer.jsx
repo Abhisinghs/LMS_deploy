@@ -3,7 +3,7 @@ import React from 'react';
 import {
   TiSocialYoutubeCircular,
   TiSocialInstagramCircular,
-  TiSocialLinkedin,
+  TiSocialLinkedinCircular,
 } from 'react-icons/ti';
 import { DiGithub } from 'react-icons/di';
 const Footer = () => {
@@ -41,7 +41,10 @@ const Footer = () => {
           <a href="https://github.com/Abhisinghs" target={'blank'}>
             <DiGithub />
           </a>
-          <a href="https://github.com/Abhisinghs" target={'blank'}>
+          <a
+            href="https://linkedin.com/in/abhishek-singh-773b3a229/"
+            target={'blank'}
+          >
             <TiSocialLinkedin />
           </a>
         </HStack>
